@@ -24,7 +24,7 @@ This project is a **Python-based ransomware simulation** created for **education
 ## Usage
 1. Clone the Repository
   ```bash
-  git clone
+  git clone https://github.com/0xNigg4/ransomware.git
   cd path/ransom.exe
   ```
 
