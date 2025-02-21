@@ -21,6 +21,12 @@ This project is a **Python-based ransomware simulation** created for **education
   pip install cryptography
   pip install pyinstaller
   ```
+## Usage
+1. Clone the Repository
+  ```bash
+  git clone
+  cd path/ransom.exe
+  ```
 
 ## Lessons Learned
 
@@ -44,30 +50,5 @@ What did you learn while building this project? What challenges did you face and
 - **PyInstaller**: Used to convert the Python script into a standalone executable. Learn more at [PyInstaller](https://www.pyinstaller.org/).
 - **UPX**: Used for compressing the executable. Check it out at [UPX GitHub](https://upx.github.io/).
 - **Python Community**: Thanks to the Python community for providing excellent documentation and resources.
-
-
-## License
-
-MIT License
-
-Copyright (c) 2025 Raffy Racal
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 ![Logo](https://jelyn1017.wordpress.com/wp-content/uploads/2011/08/logo1.png)
