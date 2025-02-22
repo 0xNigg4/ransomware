@@ -2,7 +2,7 @@
 
 This project is a **Python-based ransomware simulation** created for **educational purposes only**. It demonstrates how ransomware works, including file encryption and decryption, using modern cryptographic techniques. This project is intended for learning and research in the field of information security.
 
-**Disclaimer**: This tool is for educational use only. Do not use it for malicious purposes. The authors are not responsible for any misuse of this software.
+**Disclaimer**: This tool is for educational use only. Do not use it for malicious purposes. I am not responsible for any misuse of this software.
 
 ## Features
 
