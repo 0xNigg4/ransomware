@@ -51,4 +51,4 @@ What did you learn while building this project? What challenges did you face and
 - **UPX**: Used for compressing the executable. Check it out at [UPX GitHub](https://upx.github.io/).
 - **Python Community**: Thanks to the Python community for providing excellent documentation and resources.
 
-![Logo](https://jelyn1017.wordpress.com/wp-content/uploads/2011/08/logo1.png)
+![Logo](https://www.centralinfosec.com/img/central-infosec-shield-black.png)
