@@ -28,22 +28,6 @@ This project is a **Python-based ransomware simulation** created for **education
   cd path/ransom.exe
   ```
 
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-1. Cryptography Basics
-- Understood the importance of key derivation functions like Scrypt for securely generating encryption keys.
-2. CLI
-- Learned how to make scripts more interactive and accessible.
-3. Executable Packaging
-- Explored tools like PyInstaller to convert Python scripts into standalone executables.
-- Learned how to add custom icons and compress executables using UPX.
-4. Challenges Faced
-- ANSI Escape Codes: Initially, the colors and animations didn't work in the Windows Command Prompt. I resolved this by enabling ANSI support programmatically.
-- Executable Compression: UPX initially failed to compress the executable due to Control Flow Guard (CFG). I used the --force flag to bypass this limitation.
-- Antivirus Detection: Some antivirus programs flagged the executable as suspicious. I learned how to handle false positives and exclude files from scans.
-
 ### Acknowledgments
 
 - **Cryptography Library**: This project uses the [`cryptography`](https://cryptography.io/) library for secure encryption and decryption.
